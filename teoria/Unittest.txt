@@ -1,0 +1,7 @@
+========== Unittest (PyTest) ==========
+
+- Test Fixture => Preparaciones para antes y despues de la prueba.
+- Test Case: Unidad de código a probar.
+- Test Suite: colección de Test Cases.
+- Test Runner: orquestador de la ejecución.
+- Test Report: resumen de resultados.

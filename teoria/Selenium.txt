@@ -1,0 +1,101 @@
+========== ¿Que es selenium? ==========
+
+Suite de herramientas para automatización de navegadores Web.
+    Su enfoque es automatizar lo que hagamos en el navegadores
+
+==== Soporte navegadores ====
+
+- Firefox
+- Google Chrome
+- Explorer
+- safari
+- Opera
+
+==== Soporte lenguajes ====
+
+- Java, C#, Kotlin, Perl, PHP, python, Ruby, Javascript
+
+
+
+==== selenium NO es una herramientas de... ====
+
+- Testing
+- Web scraping
+- es usado en estas tareas, pero no fue diseñado para estas tareas.
+
+==== Caracteristicas, pros y contras ====
+
+*** Selenium IDE ***
+
+Pros:
+
+- Excelente para iniciar
+- No requiere saber programar
+- Exporta scripts para Selenium RC y Selenium WebDriver.
+- Generar reportes
+
+Contra:
+
+- Disponibles solo para Firefox y Chrome
+- No soporta DDT
+
+
+*** Selenium RC ***
+
+Pros:
+
+- Varias plataformas, navegadores y lenguajes
+- Operaciones lógicas y condicionales
+- DDT
+
+POSEE UNA API MADURA
+
+Contra:
+
+- Complejo de instalar
+- Necesita de un servidor corriendo
+- Comando redundantes en su API
+- Navegación no tan realista
+
+
+*** Selenium WebDriver ***
+Pros:
+
+- Soporte para múltiples lenguajes
+- Fácil de instalar
+- Comunicación directa con el navegador
+- Interacción más realista
+
+POSEE UNA API MADURA
+
+Contra:
+
+- No soporta nuevos navegadores tan rápidos
+- No genera reportes o resultados de pruebas
+- Requiere de saber programar
+
+
+*** Selenium Grid ***
+
+Caracteristicas:
+
+- se utiliza junto a Selenium RC
+- Permite correr pruebas en paralelo
+- Conveniente para ahorrar tiempo
+
+
+Pros:
+
+- Soporte para múltiples lenguajes
+- Fácil de instalar
+- Comunicación directa con el navegador
+- Interacción más realista
+
+POSEE UNA API MADURA
+
+Contra:
+
+- No soporta nuevos navegadores tan rápidos
+- No genera reportes o resultados de pruebas
+- Requiere de saber programar
+- 

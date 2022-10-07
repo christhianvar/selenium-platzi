@@ -1,0 +1,38 @@
+====== Otras herramientas para Testing y automatización ======
+
+
+=== Puppeteer ===
+
+Pros:
+
+- Soporte por parte de Google
+- Datos del Performance Analisis de Chrome
+- Mayor control de Chrome
+- No rquiere de drivers externos
+
+
+Contra:
+
+- Funciones solo en Chrome y con Javascript
+- Comunidad pequeña
+
+
+
+=== Cypress.io ===
+
+Pros:
+
+- Comunidad emergente
+- Buena documentación con ejemplos
+- Bastante ágil en pruebas E2E
+- Orientado a desarrolladores
+- Excelente manejo de asincronismo
+
+Contra:
+
+- Funciones solo en Chrome y con Javascript
+- Pruebas en paralelo solo en versión Pago
+
+
+=== ¿Cuál es la mejor opción? ===
+
